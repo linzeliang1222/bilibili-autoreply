@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 B站扫码登录实现
-https://github.com/linzeliang1222/bilibili_autoreply
 """
 
 import qrcode

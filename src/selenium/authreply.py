@@ -5,7 +5,7 @@ from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
-from auth2 import Auth
+from auth import Auth
 
 # 回复频率（单位：分钟）
 frequency = 3

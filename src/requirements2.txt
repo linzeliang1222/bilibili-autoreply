@@ -1,2 +1,0 @@
-selenium>=4.0.0
-qrcode[pil]>=7.0.0
