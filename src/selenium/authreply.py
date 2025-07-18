@@ -11,7 +11,7 @@ from auth import Auth
 frequency = 3
 
 # 回复话术
-follow_user_reply_template = "发过去了，没收到就私我【校招】，再次发给你"
+follow_user_reply_template = "发过去了！"
 not_follow_user_reply_template = "麻烦关注一下哈，不然收不到消息～"
 
 # 认证
